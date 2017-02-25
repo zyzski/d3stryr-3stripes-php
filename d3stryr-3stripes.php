@@ -72,7 +72,7 @@
 
         var d3stripesLocale = getCookie("d3stripesLocale");
         if (d3stripesLocale == "") {
-          setCookie("d3stripesLocale", "FR", 365);
+          setCookie("d3stripesLocale", "US", 365);
         }
 
         var d3stripesLocaleDefault = getCookie("d3stripesLocaleDefault");
